@@ -8,11 +8,11 @@
 
 ### 项目地址
 
-- [JOB](jobs)
-- [CMDB](cmdb)
+- [JOB](./jobs)
+- [CMDB](./cmdb)
 
 ### 学习资源
 
-- [restful api](resource.md#restful)
-- [后端](resource.md#后端)
-- [前端](resource.md#前端)
+- [restful api](resource.md)
+- [后端](resource.md)
+- [前端](resource.md)
